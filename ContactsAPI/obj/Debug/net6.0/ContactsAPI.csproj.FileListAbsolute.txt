@@ -1,0 +1,279 @@
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\appsettings.json
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.exe
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.deps.json
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.runtimeconfig.json
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.pdb
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.AssemblyReference.cache
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfoInputs.cache
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfo.cs
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CoreCompileInputs.cache
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\scopedcss\bundle\ContactsAPI.styles.css
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CopyComplete
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\refint\ContactsAPI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.pdb
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.genruntimeconfig.cache
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ref\ContactsAPI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.exe
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.deps.json
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.runtimeconfig.json
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.pdb
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.AssemblyReference.cache
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfoInputs.cache
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfo.cs
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CoreCompileInputs.cache
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\scopedcss\bundle\ContactsAPI.styles.css
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CopyComplete
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\refint\ContactsAPI.dll
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.pdb
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.genruntimeconfig.cache
+C:\Users\DWA_MIS\OneDrive\Desktop\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ref\ContactsAPI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Humanizer.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODEs\C#_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\appsettings.json
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.exe
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.deps.json
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.runtimeconfig.json
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\ContactsAPI.pdb
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Humanizer.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.AssemblyReference.cache
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfoInputs.cache
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfo.cs
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CoreCompileInputs.cache
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\scopedcss\bundle\ContactsAPI.styles.css
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CopyComplete
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\refint\ContactsAPI.dll
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.pdb
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ContactsAPI.genruntimeconfig.cache
+E:\CODEs\CSharp_Projects\API_Project_with_dotNET\ContactsAPI\obj\Debug\net6.0\ref\ContactsAPI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\appsettings.json
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.exe
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.deps.json
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.runtimeconfig.json
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.pdb
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Humanizer.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.AssemblyReference.cache
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfoInputs.cache
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfo.cs
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CoreCompileInputs.cache
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\scopedcss\bundle\ContactsAPI.styles.css
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CopyComplete
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\refint\ContactsAPI.dll
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.pdb
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.genruntimeconfig.cache
+E:\CODEs\CSharp_Projects\git_practice\Contact-Book\ContactsAPI\obj\Debug\net6.0\ref\ContactsAPI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\appsettings.json
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.exe
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.deps.json
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.runtimeconfig.json
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\ContactsAPI.pdb
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Humanizer.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.AssemblyReference.cache
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfoInputs.cache
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfo.cs
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CoreCompileInputs.cache
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\scopedcss\bundle\ContactsAPI.styles.css
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.csproj.CopyComplete
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\refint\ContactsAPI.dll
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.pdb
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ContactsAPI.genruntimeconfig.cache
+C:\usman\contact pro\Contact-Book\ContactsAPI\obj\Debug\net6.0\ref\ContactsAPI.dll
